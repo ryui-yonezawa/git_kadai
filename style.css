@@ -52,6 +52,12 @@ h2 div2 img {
     top: 230px;
     left: 480px;
 }
+
+h2 div3 img {
+    position: absolute;
+    top: 230px;
+    left: 1080px;
+}
 img.float_right {
     margin: 1px 20px 20px 20px;
     float: right;
