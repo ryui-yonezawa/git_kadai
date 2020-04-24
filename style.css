@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+@import url(common.css);
+
+body{
+    background-color: lightyellow;
+}
+
+h1 {
+    color: white;
+    background-color: cyan;
+    display: inline;
+    font-size: 520%;
+}
+
+h2{
+    color: blue;
+    background-color: lightgray;
+    display: inline;
+    font-size: 250%;
+}
+
+h2 div1 {
+    color: aqua;
+    background-color: gray;
+}
+
+h3 {
+    color: white;
+    background-color: green;
+    display: inline;
+    font-size: 520%;
+}
+
+p1 {
+    color: black;
+    font-size: 70%;
+}
+
+img {
+    position: relative;
+    top: 40px;
+}
+
+h2 img {
+    position: relative;
+    top: 20px;
+}
+
+h2 div2 img {
+    position: absolute;
+    top: 230px;
+    left: 480px;
+}
+img.float_right {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    float: right;
+}
+
+button{
+    width: 500%;
+    height: 500%;
+}
