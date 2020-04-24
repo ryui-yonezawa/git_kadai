@@ -53,8 +53,7 @@ h2 div2 img {
     left: 480px;
 }
 img.float_right {
-    margin-bottom: 20px;
-    margin-left: 20px;
+    margin: 1px 20px 20px 20px;
     float: right;
 }
 
